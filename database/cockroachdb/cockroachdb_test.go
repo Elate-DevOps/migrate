@@ -11,14 +11,14 @@ import (
 	"testing"
 
 	"github.com/dhui/dktest"
-	"github.com/fedevilensky/migrate/v4"
+	"github.com/FixFi-DevOps/migrate/v4"
 
 	_ "github.com/lib/pq"
 
-	dt "github.com/fedevilensky/migrate/v4/database/testing"
-	"github.com/fedevilensky/migrate/v4/dktesting"
+	dt "github.com/FixFi-DevOps/migrate/v4/database/testing"
+	"github.com/FixFi-DevOps/migrate/v4/dktesting"
 
-	_ "github.com/fedevilensky/migrate/v4/source/file"
+	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
 )
 
 const defaultPort = 26257

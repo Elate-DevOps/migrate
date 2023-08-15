@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/fedevilensky/migrate/v4/database/multistmt"
+	"github.com/FixFi-DevOps/migrate/v4/database/multistmt"
 )
 
 const maxMigrationSize = 1024

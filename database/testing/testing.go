@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fedevilensky/migrate/v4/database"
+	"github.com/FixFi-DevOps/migrate/v4/database"
 )
 
 // Test runs tests against database implementations.

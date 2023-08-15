@@ -5,8 +5,8 @@ import (
 	"net/http"
 	stdurl "net/url"
 
-	"github.com/fedevilensky/migrate/v4/source"
-	"github.com/fedevilensky/migrate/v4/source/httpfs"
+	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/FixFi-DevOps/migrate/v4/source/httpfs"
 	"github.com/markbates/pkger"
 	"github.com/markbates/pkger/pkging"
 )

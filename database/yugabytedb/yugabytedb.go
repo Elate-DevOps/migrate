@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff/v4"
-	"github.com/fedevilensky/migrate/v4"
-	"github.com/fedevilensky/migrate/v4/database"
+	"github.com/FixFi-DevOps/migrate/v4"
+	"github.com/FixFi-DevOps/migrate/v4/database"
 	"github.com/hashicorp/go-multierror"
 	"github.com/jackc/pgconn"
 	"github.com/jackc/pgerrcode"

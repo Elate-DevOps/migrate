@@ -1,6 +1,6 @@
 package main
 
-import "github.com/fedevilensky/migrate/v4/internal/cli"
+import "github.com/FixFi-DevOps/migrate/v4/internal/cli"
 
 func main() {
 	cli.Main(Version)

@@ -7,9 +7,9 @@ import (
 	"embed"
 	"log"
 
-	"github.com/fedevilensky/migrate/v4"
-	_ "github.com/fedevilensky/migrate/v4/database/postgres"
-	"github.com/fedevilensky/migrate/v4/source/iofs"
+	"github.com/FixFi-DevOps/migrate/v4"
+	_ "github.com/FixFi-DevOps/migrate/v4/database/postgres"
+	"github.com/FixFi-DevOps/migrate/v4/source/iofs"
 )
 
 //go:embed testdata/migrations/*.sql

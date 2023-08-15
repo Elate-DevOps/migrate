@@ -122,9 +122,9 @@ Here is a very simple app running migrations for the above configuration:
 import (
 	"log"
 
-	"github.com/fedevilensky/migrate/v4"
-	_ "github.com/fedevilensky/migrate/v4/database/cockroachdb"
-	_ "github.com/fedevilensky/migrate/v4/source/file"
+	"github.com/FixFi-DevOps/migrate/v4"
+	_ "github.com/FixFi-DevOps/migrate/v4/database/cockroachdb"
+	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
 )
 
 func main() {

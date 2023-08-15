@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fedevilensky/migrate/v4/source"
+	"github.com/FixFi-DevOps/migrate/v4/source"
 	"github.com/xanzy/go-gitlab"
 )
 

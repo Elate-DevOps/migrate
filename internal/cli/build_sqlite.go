@@ -4,5 +4,5 @@
 package cli
 
 import (
-	_ "github.com/fedevilensky/migrate/v4/database/sqlite"
+	_ "github.com/FixFi-DevOps/migrate/v4/database/sqlite"
 )

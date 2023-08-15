@@ -1,4 +1,4 @@
-module github.com/fedevilensky/migrate/v4
+module github.com/FixFi-DevOps/migrate/v4
 
 require (
 	cloud.google.com/go/spanner v1.47.0

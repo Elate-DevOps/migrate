@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"cloud.google.com/go/storage"
-	"github.com/fedevilensky/migrate/v4/source"
+	"github.com/FixFi-DevOps/migrate/v4/source"
 	"google.golang.org/api/iterator"
 )
 

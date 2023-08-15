@@ -3,11 +3,11 @@ package stub
 import (
 	"testing"
 
-	"github.com/fedevilensky/migrate/v4"
-	"github.com/fedevilensky/migrate/v4/source"
-	"github.com/fedevilensky/migrate/v4/source/stub"
+	"github.com/FixFi-DevOps/migrate/v4"
+	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/FixFi-DevOps/migrate/v4/source/stub"
 
-	dt "github.com/fedevilensky/migrate/v4/database/testing"
+	dt "github.com/FixFi-DevOps/migrate/v4/database/testing"
 )
 
 func Test(t *testing.T) {

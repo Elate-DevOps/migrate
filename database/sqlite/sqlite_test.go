@@ -8,9 +8,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/fedevilensky/migrate/v4"
-	dt "github.com/fedevilensky/migrate/v4/database/testing"
-	_ "github.com/fedevilensky/migrate/v4/source/file"
+	"github.com/FixFi-DevOps/migrate/v4"
+	dt "github.com/FixFi-DevOps/migrate/v4/database/testing"
+	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
 	_ "modernc.org/sqlite"
 )
 
