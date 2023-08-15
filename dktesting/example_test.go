@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/dhui/dktest"
-	"github.com/fedevilensky/migrate/v4/dktesting"
+	"github.com/FixFi-DevOps/migrate/v4/dktesting"
 )
 
 func ExampleParallelTest() {

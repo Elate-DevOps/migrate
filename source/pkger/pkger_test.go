@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	st "github.com/fedevilensky/migrate/v4/source/testing"
+	st "github.com/FixFi-DevOps/migrate/v4/source/testing"
 	"github.com/gobuffalo/here"
 	"github.com/markbates/pkger"
 	"github.com/markbates/pkger/pkging"

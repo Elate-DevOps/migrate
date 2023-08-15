@@ -13,9 +13,9 @@ cd examples/migrations && go-bindata -pkg migrations .
 
 ```go
 import (
-  "github.com/fedevilensky/migrate/v4"
-  "github.com/fedevilensky/migrate/v4/source/go_bindata"
-  "github.com/fedevilensky/migrate/v4/source/go_bindata/examples/migrations"
+  "github.com/FixFi-DevOps/migrate/v4"
+  "github.com/FixFi-DevOps/migrate/v4/source/go_bindata"
+  "github.com/FixFi-DevOps/migrate/v4/source/go_bindata/examples/migrations"
 )
 
 func main() {

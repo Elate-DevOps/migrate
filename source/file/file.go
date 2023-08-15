@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/fedevilensky/migrate/v4/source"
-	"github.com/fedevilensky/migrate/v4/source/iofs"
+	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/FixFi-DevOps/migrate/v4/source/iofs"
 )
 
 func init() {

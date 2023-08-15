@@ -6,7 +6,7 @@ package testing
 import (
 	"testing"
 
-	"github.com/fedevilensky/migrate/v4"
+	"github.com/FixFi-DevOps/migrate/v4"
 )
 
 // TestMigrate runs integration-tests between the Migrate layer and database implementations.

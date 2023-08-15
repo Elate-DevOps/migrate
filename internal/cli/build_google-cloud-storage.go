@@ -4,5 +4,5 @@
 package cli
 
 import (
-	_ "github.com/fedevilensky/migrate/v4/source/google_cloud_storage"
+	_ "github.com/FixFi-DevOps/migrate/v4/source/google_cloud_storage"
 )

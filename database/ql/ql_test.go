@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/fedevilensky/migrate/v4"
-	dt "github.com/fedevilensky/migrate/v4/database/testing"
-	_ "github.com/fedevilensky/migrate/v4/source/file"
+	"github.com/FixFi-DevOps/migrate/v4"
+	dt "github.com/FixFi-DevOps/migrate/v4/database/testing"
+	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
 	_ "modernc.org/ql/driver"
 )
 

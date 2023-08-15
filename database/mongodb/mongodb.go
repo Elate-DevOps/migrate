@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff/v4"
-	"github.com/fedevilensky/migrate/v4/database"
+	"github.com/FixFi-DevOps/migrate/v4/database"
 	"github.com/hashicorp/go-multierror"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"

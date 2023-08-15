@@ -6,8 +6,8 @@ package iofs_test
 import (
 	"testing"
 
-	"github.com/fedevilensky/migrate/v4/source/iofs"
-	st "github.com/fedevilensky/migrate/v4/source/testing"
+	"github.com/FixFi-DevOps/migrate/v4/source/iofs"
+	st "github.com/FixFi-DevOps/migrate/v4/source/testing"
 )
 
 func Test(t *testing.T) {

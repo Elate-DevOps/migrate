@@ -29,9 +29,9 @@ import (
     "database/sql"
     
     _ "github.com/go-sql-driver/mysql"
-    "github.com/fedevilensky/migrate/v4"
-    "github.com/fedevilensky/migrate/v4/database/mysql"
-    _ "github.com/fedevilensky/migrate/v4/source/file"
+    "github.com/FixFi-DevOps/migrate/v4"
+    "github.com/FixFi-DevOps/migrate/v4/database/mysql"
+    _ "github.com/FixFi-DevOps/migrate/v4/source/file"
 )
 
 func main() {
