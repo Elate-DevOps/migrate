@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
+	st "github.com/Elate-DevOps/migrate/v4/source/testing"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/s3"
-	st "github.com/FixFi-DevOps/migrate/v4/source/testing"
 	"github.com/stretchr/testify/assert"
 )
 

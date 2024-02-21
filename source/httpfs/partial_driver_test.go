@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/FixFi-DevOps/migrate/v4/source"
-	"github.com/FixFi-DevOps/migrate/v4/source/httpfs"
-	st "github.com/FixFi-DevOps/migrate/v4/source/testing"
+	"github.com/Elate-DevOps/migrate/v4/source"
+	"github.com/Elate-DevOps/migrate/v4/source/httpfs"
+	st "github.com/Elate-DevOps/migrate/v4/source/testing"
 )
 
 type driver struct{ httpfs.PartialDriver }

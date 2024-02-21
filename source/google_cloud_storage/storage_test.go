@@ -3,8 +3,8 @@ package googlecloudstorage
 import (
 	"testing"
 
-	"github.com/FixFi-DevOps/migrate/v4/source"
-	st "github.com/FixFi-DevOps/migrate/v4/source/testing"
+	"github.com/Elate-DevOps/migrate/v4/source"
+	st "github.com/Elate-DevOps/migrate/v4/source/testing"
 	"github.com/fsouza/fake-gcs-server/fakestorage"
 )
 

@@ -10,8 +10,8 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/FixFi-DevOps/migrate/v4"
-	"github.com/FixFi-DevOps/migrate/v4/database"
+	"github.com/Elate-DevOps/migrate/v4"
+	"github.com/Elate-DevOps/migrate/v4/database"
 	"github.com/hashicorp/go-multierror"
 	_ "github.com/mutecomm/go-sqlcipher/v4"
 )

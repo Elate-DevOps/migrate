@@ -128,9 +128,9 @@ Here is a very simple app running migrations for the above configuration:
 import (
 	"log"
 
-	"github.com/FixFi-DevOps/migrate/v4"
-	_ "github.com/FixFi-DevOps/migrate/v4/database/postgres"
-	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
+	"github.com/Elate-DevOps/migrate/v4"
+	_ "github.com/Elate-DevOps/migrate/v4/database/postgres"
+	_ "github.com/Elate-DevOps/migrate/v4/source/file"
 )
 
 func main() {

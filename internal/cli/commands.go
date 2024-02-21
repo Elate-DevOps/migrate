@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/FixFi-DevOps/migrate/v4"
-	_ "github.com/FixFi-DevOps/migrate/v4/database/stub" // TODO remove again
-	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
+	"github.com/Elate-DevOps/migrate/v4"
+	_ "github.com/Elate-DevOps/migrate/v4/database/stub" // TODO remove again
+	_ "github.com/Elate-DevOps/migrate/v4/source/file"
 )
 
 var (

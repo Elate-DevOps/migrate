@@ -13,9 +13,9 @@ import (
 
 	"github.com/hashicorp/go-multierror"
 
-	"github.com/FixFi-DevOps/migrate/v4/database"
-	iurl "github.com/FixFi-DevOps/migrate/v4/internal/url"
-	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/Elate-DevOps/migrate/v4/database"
+	iurl "github.com/Elate-DevOps/migrate/v4/internal/url"
+	"github.com/Elate-DevOps/migrate/v4/source"
 )
 
 // DefaultPrefetchMigrations sets the number of migrations to pre-read

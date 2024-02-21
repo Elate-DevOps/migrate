@@ -9,7 +9,7 @@ import (
 	"io"
 	"sync"
 
-	iurl "github.com/FixFi-DevOps/migrate/v4/internal/url"
+	iurl "github.com/Elate-DevOps/migrate/v4/internal/url"
 )
 
 var (

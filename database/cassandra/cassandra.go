@@ -11,8 +11,8 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/FixFi-DevOps/migrate/v4/database"
-	"github.com/FixFi-DevOps/migrate/v4/database/multistmt"
+	"github.com/Elate-DevOps/migrate/v4/database"
+	"github.com/Elate-DevOps/migrate/v4/database/multistmt"
 	"github.com/gocql/gocql"
 	"github.com/hashicorp/go-multierror"
 )

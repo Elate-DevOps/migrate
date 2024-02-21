@@ -11,16 +11,16 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Elate-DevOps/migrate/v4"
 	"github.com/dhui/dktest"
-	"github.com/FixFi-DevOps/migrate/v4"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	dt "github.com/FixFi-DevOps/migrate/v4/database/testing"
-	"github.com/FixFi-DevOps/migrate/v4/dktesting"
+	dt "github.com/Elate-DevOps/migrate/v4/database/testing"
+	"github.com/Elate-DevOps/migrate/v4/dktesting"
 
-	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
+	_ "github.com/Elate-DevOps/migrate/v4/source/file"
 )
 
 var (

@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/Elate-DevOps/migrate/v4/source"
 	"github.com/ktrysmt/go-bitbucket"
 )
 

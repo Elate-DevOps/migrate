@@ -5,5 +5,5 @@ package cli
 
 import (
 	_ "github.com/ClickHouse/clickhouse-go"
-	_ "github.com/FixFi-DevOps/migrate/v4/database/clickhouse"
+	_ "github.com/Elate-DevOps/migrate/v4/database/clickhouse"
 )

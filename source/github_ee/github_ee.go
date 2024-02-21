@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/FixFi-DevOps/migrate/v4/source"
-	gh "github.com/FixFi-DevOps/migrate/v4/source/github"
+	"github.com/Elate-DevOps/migrate/v4/source"
+	gh "github.com/Elate-DevOps/migrate/v4/source/github"
 
 	"github.com/google/go-github/v39/github"
 )

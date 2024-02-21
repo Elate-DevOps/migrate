@@ -4,5 +4,5 @@
 package cli
 
 import (
-	_ "github.com/FixFi-DevOps/migrate/v4/database/sqlserver"
+	_ "github.com/Elate-DevOps/migrate/v4/database/sqlserver"
 )

@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"sync/atomic"
 
-	"github.com/FixFi-DevOps/migrate/v4/database"
-	"github.com/FixFi-DevOps/migrate/v4/database/multistmt"
+	"github.com/Elate-DevOps/migrate/v4/database"
+	"github.com/Elate-DevOps/migrate/v4/database/multistmt"
 	"github.com/hashicorp/go-multierror"
 	"github.com/neo4j/neo4j-go-driver/neo4j"
 )

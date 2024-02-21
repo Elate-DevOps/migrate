@@ -3,8 +3,8 @@ package bindata
 import (
 	"testing"
 
-	"github.com/FixFi-DevOps/migrate/v4/source/go_bindata/testdata"
-	st "github.com/FixFi-DevOps/migrate/v4/source/testing"
+	"github.com/Elate-DevOps/migrate/v4/source/go_bindata/testdata"
+	st "github.com/Elate-DevOps/migrate/v4/source/testing"
 )
 
 func Test(t *testing.T) {

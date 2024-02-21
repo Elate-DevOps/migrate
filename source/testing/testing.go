@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/Elate-DevOps/migrate/v4/source"
 )
 
 // Test runs tests against source implementations.

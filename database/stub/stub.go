@@ -6,7 +6,7 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/FixFi-DevOps/migrate/v4/database"
+	"github.com/Elate-DevOps/migrate/v4/database"
 )
 
 func init() {

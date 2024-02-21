@@ -12,7 +12,7 @@ import (
 
 	"golang.org/x/oauth2"
 
-	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/Elate-DevOps/migrate/v4/source"
 	"github.com/google/go-github/v39/github"
 )
 

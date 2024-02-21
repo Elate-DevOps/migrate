@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
+	"github.com/Elate-DevOps/migrate/v4/dktesting"
 	"github.com/dhui/dktest"
-	"github.com/FixFi-DevOps/migrate/v4/dktesting"
 )
 
 func ExampleParallelTest() {

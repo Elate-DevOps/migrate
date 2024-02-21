@@ -8,9 +8,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/FixFi-DevOps/migrate/v4"
-	dt "github.com/FixFi-DevOps/migrate/v4/database/testing"
-	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
+	"github.com/Elate-DevOps/migrate/v4"
+	dt "github.com/Elate-DevOps/migrate/v4/database/testing"
+	_ "github.com/Elate-DevOps/migrate/v4/source/file"
 	_ "github.com/mattn/go-sqlite3"
 )
 

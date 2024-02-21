@@ -15,8 +15,8 @@ import (
 	sdb "cloud.google.com/go/spanner/admin/database/apiv1"
 	"cloud.google.com/go/spanner/spansql"
 
-	"github.com/FixFi-DevOps/migrate/v4"
-	"github.com/FixFi-DevOps/migrate/v4/database"
+	"github.com/Elate-DevOps/migrate/v4"
+	"github.com/Elate-DevOps/migrate/v4/database"
 
 	adminpb "cloud.google.com/go/spanner/admin/database/apiv1/databasepb"
 	"github.com/hashicorp/go-multierror"

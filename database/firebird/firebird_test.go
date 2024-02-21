@@ -10,13 +10,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/FixFi-DevOps/migrate/v4"
+	"github.com/Elate-DevOps/migrate/v4"
 
 	"github.com/dhui/dktest"
 
-	dt "github.com/FixFi-DevOps/migrate/v4/database/testing"
-	"github.com/FixFi-DevOps/migrate/v4/dktesting"
-	_ "github.com/FixFi-DevOps/migrate/v4/source/file"
+	dt "github.com/Elate-DevOps/migrate/v4/database/testing"
+	"github.com/Elate-DevOps/migrate/v4/dktesting"
+	_ "github.com/Elate-DevOps/migrate/v4/source/file"
 
 	_ "github.com/nakagami/firebirdsql"
 )

@@ -10,9 +10,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/FixFi-DevOps/migrate/v4"
-	"github.com/FixFi-DevOps/migrate/v4/database"
-	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/Elate-DevOps/migrate/v4"
+	"github.com/Elate-DevOps/migrate/v4/database"
+	"github.com/Elate-DevOps/migrate/v4/source"
 )
 
 const (

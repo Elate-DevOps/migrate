@@ -6,11 +6,11 @@ import (
 	"errors"
 	"log"
 
-	"github.com/FixFi-DevOps/migrate/v4"
+	"github.com/Elate-DevOps/migrate/v4"
 	"github.com/markbates/pkger"
 
-	_ "github.com/FixFi-DevOps/migrate/v4/database/postgres"
-	_ "github.com/FixFi-DevOps/migrate/v4/source/pkger"
+	_ "github.com/Elate-DevOps/migrate/v4/database/postgres"
+	_ "github.com/Elate-DevOps/migrate/v4/source/pkger"
 	_ "github.com/lib/pq"
 )
 

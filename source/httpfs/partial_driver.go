@@ -8,7 +8,7 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/FixFi-DevOps/migrate/v4/source"
+	"github.com/Elate-DevOps/migrate/v4/source"
 )
 
 // PartialDriver is a helper service for creating new source drivers working with

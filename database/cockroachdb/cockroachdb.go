@@ -9,9 +9,9 @@ import (
 	"regexp"
 	"strconv"
 
+	"github.com/Elate-DevOps/migrate/v4"
+	"github.com/Elate-DevOps/migrate/v4/database"
 	"github.com/cockroachdb/cockroach-go/v2/crdb"
-	"github.com/FixFi-DevOps/migrate/v4"
-	"github.com/FixFi-DevOps/migrate/v4/database"
 	"github.com/hashicorp/go-multierror"
 	"github.com/lib/pq"
 	"go.uber.org/atomic"
